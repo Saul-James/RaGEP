@@ -44,7 +44,7 @@ Each pruning script saves:
 │   └── dataset
 │       ├── c4.txt
 │       └── data_utils.py
-└── icml2026__2_ (17).pdf
+
 ```
 
 ## Environment
